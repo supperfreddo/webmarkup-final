@@ -1,0 +1,4 @@
+student name: Fred Willemsen
+student number: 628990
+student class: inf1A
+URL student GitHub repository: https://github.com/supperfreddo/webmarkup-final.git
