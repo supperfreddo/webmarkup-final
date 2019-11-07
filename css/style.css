@@ -28,12 +28,11 @@ Tablet 481px-1179px
 body{
 	font-family: Arial;
 	font-size: 15pt;
-	width: 60%;
-	padding-left: 20%;
-	margin-top: 0;
+	margin: 0 0 0 0;
 }
 
 nav{
+	padding-left: 20%;
 	background-color: #F5F5F5;
 	margin-top: 0;
 	padding-top: 1em;
@@ -60,11 +59,17 @@ nav a:hover{
 	color: #2699FB;
 }
 
+main {
+	width: 60%;
+	padding-left: 20%;
+}
+
 article h1{
 	font-size: 25pt;
 }
 
 #mainheader{
+	padding-left: 20%;
 	background-color: #F5F5F5;
 }
 
@@ -80,5 +85,6 @@ article h1{
 }
 
 #mainfooter{
+	padding-left: 20%;
 	background-color: #AAAAAA;
 }
