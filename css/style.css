@@ -32,11 +32,10 @@ body{
 }
 
 nav{
-	margin-bottom: 0; 
+	margin-bottom: 0;
 }
 
 nav ul{
-	font-size: 25pt;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
