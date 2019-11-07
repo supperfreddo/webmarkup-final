@@ -88,6 +88,10 @@ legend h1{
 	margin-bottom: 0;
 }
 
+#verplicht{
+	color: red;
+}
+
 #mainfooter{
 	padding-left: 20%;
 	padding-top: 1em;
