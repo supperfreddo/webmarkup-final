@@ -28,7 +28,7 @@ Tablet 481px-1179px
 body{
 	font-family: Arial;
 	font-size: 15pt;
-	margin: 0 0 0 0;
+	margin: 0;
 }
 
 nav{
@@ -48,15 +48,19 @@ nav ul{
 
 nav li{
 	display: inline;
+	margin: 1.1em;
 }
 
 nav a{
 	text-decoration: none;
 	color: #707070;
+	border: 1px solid;
+	border-bottom: 0;
 }
 
 nav a:hover{
 	color: #2699FB;
+	background-color: #FFFFFF;
 }
 
 main {
