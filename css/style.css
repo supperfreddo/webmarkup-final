@@ -19,11 +19,25 @@ Mobile <480px
 Tablet 481px-1179px
 */
 
+/* Fonts */
+@font-face {
+    font-family: "BerlinSansFB";
+    src: url(../fonts/BerlinSansFB/BerlinSansFBRegular.ttf) format("truetype");
+}
+
 body{
 	width: 60%;
 	padding-left: 20%;
+	margin-top: 0;
 }
 
 #mainheader{
 	background-color: #F5F5F5;
+}
+
+#mainheader h1{
+	font-family: "BerlinSansFB";
+	font-size: 80pt;
+	color: #2699FB;
+	margin-top: 0;
 }
