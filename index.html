@@ -78,9 +78,12 @@
 				<legend>
 					<h1>Stel ons een vraag</h1>
 				</legend>
-				Naam*: <input type="text" name="name">
-				Emailadres*: <input type="text" name="email">
-				Uw vraag*: <input type="text" name="message">
+				<form action="http://witan.nl/inholland/testform.php">
+					<p>Naam*: <input type="text" name="name" required="true"></p>
+					<p>Email*: <input type="email" name="email" required="true"></p>
+					<p>Uw vraag*: <input type="text" name="message" required="true"></p>
+					<input type="submit" value="Versturen">
+				</form>
 			</fieldset>
 		</section>
 	</main>
