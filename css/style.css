@@ -68,6 +68,10 @@ article h1{
 	font-size: 25pt;
 }
 
+legend h1{
+	margin: 0;
+}
+
 #mainheader{
 	padding-left: 20%;
 	background-color: #F5F5F5;
