@@ -89,6 +89,7 @@ textarea{
 
 #mainheader{
 	padding-left: 20%;
+	padding-right: 20%;
 	background-color: #F5F5F5;
 }
 
@@ -97,6 +98,12 @@ textarea{
 	font-size: 8em;
 	color: #2699FB;
 	margin-top: 0;
+	margin-bottom: 0.1em;
+}
+
+#mainheader h2{
+	font-size: 2em;
+	text-align: right;
 }
 
 #verplicht{
