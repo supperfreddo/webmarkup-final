@@ -27,7 +27,6 @@ Tablet 481px-1179px
 
 body{
 	font-family: Arial;
-	font-size: 15pt;
 	margin: 0;
 }
 
@@ -49,6 +48,7 @@ nav li{
 }
 
 nav a{
+	font-size: 1.3em;
 	text-decoration: none;
 	color: #707070;
 	border: 1px solid;
@@ -66,10 +66,20 @@ main{
 }
 
 article h1{
-	font-size: 25pt;
+	font-size: 3em;
+}
+
+article h2{
+	font-size: 2em;
+	color: #2699FB;
+}
+
+aside h1{
+	font-size: 3em;
 }
 
 legend h1{
+	font-size: 3em;
 	margin: 0;
 }
 
@@ -84,7 +94,7 @@ textarea{
 
 #mainheader h1{
 	font-family: "BerlinSansFB";
-	font-size: 80pt;
+	font-size: 8em;
 	color: #2699FB;
 	margin-top: 0;
 }
