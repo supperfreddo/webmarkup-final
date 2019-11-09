@@ -89,10 +89,6 @@ section a:hover{
 	color: #2699FB;
 }
 
-legend h2{
-	margin: 0;
-}
-
 textarea{
 	vertical-align: top;
 	resize: none;
