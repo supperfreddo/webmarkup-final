@@ -140,7 +140,13 @@ textarea{
 }
 
 .sportContainer > p{
-	width: 70%;
+
+}
+
+.sportImage{
+	width: 10em;
+	height: 10em;
+	vertical-align: middle;
 }
 
 .verplicht{
