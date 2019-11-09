@@ -26,7 +26,8 @@ Tablet 481px-1179px
 }
 
 body{
-	font-family: Arial;
+	font-family: Arial, "Arial 30pt", "Arial 25pt";
+	color: #000000;
 	margin: 0;
 }
 
@@ -97,6 +98,8 @@ textarea{
 	bottom: 0;
 	min-width: 100%; 
 	min-height: 100%;
+	display: block;
+	margin: 0 auto;
 }
 
 #mainheader{
@@ -116,6 +119,15 @@ textarea{
 #mainheader h2{
 	font-size: 2em;
 	text-align: right;
+}
+
+#cookie{
+	z-index: 1;
+	position: fixed;
+	margin-top: 1em;
+	margin-left: 2.5%;
+	width: 15%;
+	background-color: #F5F5F5;
 }
 
 #mainfooter{
