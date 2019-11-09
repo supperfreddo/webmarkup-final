@@ -60,7 +60,6 @@ nav a:hover{
 }
 
 main{
-	position: absolute;
 	width: 60%;
 	padding-left: 20%;
 }
@@ -92,6 +91,7 @@ textarea{
 }
 
 #backgroundVideo {
+	z-index: -1;
 	position: fixed;
 	right: 0;
 	bottom: 0;
@@ -100,7 +100,6 @@ textarea{
 }
 
 #mainheader{
-	position: absolute;
 	padding-left: 20%;
 	padding-right: 20%;
 	background-color: #F5F5F5;
@@ -120,7 +119,6 @@ textarea{
 }
 
 #mainfooter{
-	position: absolute;
 	padding-left: 20%;
 	padding-top: 1em;
 	margin-top: 1em;
