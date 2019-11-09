@@ -64,15 +64,6 @@ main{
 	padding-left: 20%;
 }
 
-.header2{
-	font-size: 2.5em;
-}
-
-.header3{
-	font-size: 2em;
-	color: #2699FB;
-}
-
 article h2{
 	margin-bottom: 0.5em;
 }
@@ -113,14 +104,23 @@ textarea{
 	text-align: right;
 }
 
-.verplicht{
-	color: red;
-}
-
 #mainfooter{
 	padding-left: 20%;
 	padding-top: 1em;
 	margin-top: 1em;
 	height: 2em;
 	background-color: #AAAAAA;
+}
+
+.header2{
+	font-size: 2.5em;
+}
+
+.header3{
+	font-size: 2em;
+	color: #2699FB;
+}
+
+.verplicht{
+	color: red;
 }
