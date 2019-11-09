@@ -127,10 +127,10 @@ textarea{
 }
 
 .sideImg{
-	height: 20em;
+	float: right;
+	height: 15em;
 	width: auto;
-	object-fit: scale-down;
-	vertical-align: middle;
+	margin: 0 0 1em 1em;
 }
 
 .verplicht{
