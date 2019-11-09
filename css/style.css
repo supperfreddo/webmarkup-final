@@ -80,6 +80,11 @@ section a:hover{
 	color: #2699FB;
 }
 
+img{
+	width: 100%;
+	margin: 1em 0 1em 0;
+}
+
 textarea{
 	vertical-align: top;
 	resize: none;
@@ -119,6 +124,13 @@ textarea{
 .header3{
 	font-size: 2em;
 	color: #2699FB;
+}
+
+.sideImg{
+	height: 20em;
+	width: auto;
+	object-fit: scale-down;
+	vertical-align: middle;
 }
 
 .verplicht{
