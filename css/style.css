@@ -134,6 +134,15 @@ textarea{
 	margin: 0 0 1em 1em;
 }
 
+.sportContainer{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.sportContainer > p{
+	width: 70%;
+}
+
 .verplicht{
-	color: red;
+	color: #2699FB;
 }
