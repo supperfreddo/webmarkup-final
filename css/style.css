@@ -52,8 +52,6 @@ nav a{
 	font-size: 1.3em;
 	text-decoration: none;
 	color: #707070;
-	border: 1px solid;
-	border-bottom: 0;
 }
 
 nav a:hover{
