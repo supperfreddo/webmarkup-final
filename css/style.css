@@ -158,6 +158,10 @@ textarea{
 	vertical-align: middle;
 }
 
+.sportImage:hover{
+	transform: scale(1.2);
+}
+
 .verplicht{
 	color: #2699FB;
 }
